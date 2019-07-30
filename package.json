@@ -1,0 +1,11 @@
+{
+  "name": "signale-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/9oelM/signale-test.git",
+  "author": "9oelM <hj923@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "signale": "^1.4.0"
+  }
+}
